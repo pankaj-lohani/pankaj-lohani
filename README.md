@@ -42,6 +42,6 @@
 
 ###
 
-<p align="left">FOLLOW FOR ALWAYS UPDATED..</p>
+<p align="left">FOLLOW FOR BEING ALWAYS UPDATED..</p>
 
 ###
