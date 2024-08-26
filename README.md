@@ -5,7 +5,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/pankajlohani_2020" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pankajlohani_2020" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/Pankajlohani_2024/" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leetcode.svg" alt="Pankajlohani_2024" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/Pankajlohani_2024/" target="blank"> <img align="center" src="https://drive.google.com/file/d/1DAHXbofxD9F5mSXYB2YFvYOhVxVEXkqm/view?usp=drive_link" alt="Pankajlohani_2024" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
